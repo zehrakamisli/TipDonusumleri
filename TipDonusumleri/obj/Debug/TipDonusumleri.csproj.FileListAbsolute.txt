@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\TipDonusumleri.exe.config
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\TipDonusumleri.exe
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\TipDonusumleri.pdb
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.exe
+C:\Users\LENOVO\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\TipDonusumleri.pdb
